@@ -4,7 +4,7 @@
     <div class="top">
       <div class="container">
         <div class="loginList">
-          <p>尚品汇欢迎您！</p>
+          <p>尚品汇欢迎您！hahahhaha</p>
           <p v-if="!info.id">
             <span>请</span>
             <router-link to="/login">登录</router-link>
